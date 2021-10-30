@@ -2,7 +2,7 @@
 
 ## Specialization Completion Certificate
 
-<p align="center"><img width="100%" src="DeepLearning.PNG" /></p>
+<p align="center"><img width="100%" src="NLP.PNG" /></p>
 
 --------------------------------------------------------------------------------
 
